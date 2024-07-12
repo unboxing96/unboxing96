@@ -2,7 +2,7 @@
 
 ### History
 - SSAFY 12th (2024.07 ~ )
-- Apple Developer Academy @POSTECH 2th, iOS Developer (2023.03 ~ 2023.12)
+- Apple Developer Academy @POSTECH 2nd, iOS Developer (2023.03 ~ 2023.12)
 - University Of Seoul, Economics (2016.03 ~ 2023.08)
 - Gwacheon Foreign Language High School 12th, French (2012.03 ~ 2015.02)
 
