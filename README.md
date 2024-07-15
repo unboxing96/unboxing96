@@ -15,5 +15,6 @@
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
 
 ### Contact
-- Tech Blog: https://gowild.tistory.com/
 - Email: unboxing96@gmail.com
+- Linkedin: https://www.linkedin.com/in/unboxing/
+- Tech Blog: https://gowild.tistory.com/
